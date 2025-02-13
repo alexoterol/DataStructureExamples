@@ -1,6 +1,7 @@
 # Data Structures
 
 Data structures are fundamental components of computer science that organize, manage, and store data efficiently for various operations. Choosing the right data structure impacts performance, memory usage, and algorithm complexity.
+This repository has two main sections. The first one is opened with Meaven, where you can use an example of a graph. Inside the folder DataStructureExamples you can view the different data structures you could create but it's made with VSCode.
 
 ---
 
